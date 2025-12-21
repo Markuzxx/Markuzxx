@@ -23,8 +23,6 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 
 ## 🧬 Current Focus: Thorvex Programming Language
 
-<br clear="right"/>
-
 I am currently developing my own programming language, **Thorvex**, designed as a learning-heavy but forward-looking project.
 🔗 Project repository: https://github.com/Markuzxx/thorvex
 
@@ -44,7 +42,6 @@ This project is not just about "making a language", but about **understanding ho
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
-  <div width="5%"></div>
   <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 </p>
 
@@ -67,3 +64,5 @@ This project is not just about "making a language", but about **understanding ho
 </p>
 
 > *Understand the system. Build the system. Improve the system.*
+
+<br clear="right"/>
