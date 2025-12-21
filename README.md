@@ -13,7 +13,7 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
     <!-- Colonna Testo -->
     <td width="45%" valign="top">
 <ul>
-  <li>🎓 Computer Science student at <a href="https://www.magistricumacini.edu.it">I.T.I.S. Magistri Cumacini</a></li>
+  <li>🎓 Computer Science student at <a href="https://www.magistricumacini.edu.it">I.T.I.S. "Magistri Cumacini" (CO)</a></li>
   <li>🐍 Advanced Python knowledge (Data Science & ML oriented)</li>
   <li>🦀 Rust learner for systems and game development</li>
   <li>🧪 Interested in simulations, strategy games, and complex systems</li>
