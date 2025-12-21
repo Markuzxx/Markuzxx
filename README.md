@@ -18,7 +18,7 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 - 🚀 Long-term goal: real-world engineering, not toy software
     </td>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/3-stats.svg" width="100%" />
+      <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/3-stats.svg)" width="100%" />
     </td>
   </tr>
 </table>
@@ -47,8 +47,8 @@ This project is not just about "making a language", but about **understanding ho
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/1-repos-per-language.svg" width="45%" style="margin-right: 5%" />
-  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/2-most-commit-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" style="margin-right: 5%" />
+  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 </p>
 
 ---
@@ -69,15 +69,9 @@ This project is not just about "making a language", but about **understanding ho
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Other GitHub Stats
 
-![](https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/0-profile-details.svg)
-
----
-
-## 🔥 Activity & Streak
-
-![](https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 ---
 
