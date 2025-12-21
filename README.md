@@ -8,20 +8,23 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 
 ## 🧠 Profile Overview
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-- 🎓 Computer Science student at [I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it)
-- 🐍 Advanced Python knowledge (Data Science & ML oriented)
-- 🦀 Rust learner for systems and game development
-- 🧪 Interested in simulations, strategy games, and complex systems
-- 🚀 Long-term goal: real-world engineering, not toy software
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/3-stats.svg)" width="100%" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <div style="flex: 1;">
+<ul>
+  <li>🎓 Computer Science student at <a href="https://www.magistricumacini.edu.it">I.T.I.S. Magistri Cumacini</a></li>
+  <li>🐍 Advanced Python knowledge (Data Science & ML oriented)</li>
+  <li>🦀 Rust learner for systems and game development</li>
+  <li>🧪 Interested in simulations, strategy games, and complex systems</li>
+  <li>🚀 Long-term goal: real-world engineering, not toy software</li>
+</ul>
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/3-stats.svg" style="width:100%; border:none;" />
+  </div>
+
+</div>
 
 ---
 
@@ -47,7 +50,7 @@ This project is not just about "making a language", but about **understanding ho
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" style="margin-right: 5%" />
+  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" style="margin-right: 10%" />
   <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 </p>
 
@@ -71,7 +74,9 @@ This project is not just about "making a language", but about **understanding ho
 
 ## 📊 Other GitHub Stats
 
-![](https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
 
 ---
 
