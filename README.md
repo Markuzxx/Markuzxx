@@ -8,9 +8,10 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 
 ## 🧠 Profile Overview
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start; gap: 10%;">
 
-  <div style="flex: 1;">
+  <!-- Colonna Testo -->
+  <div style="flex: 1; min-width: 200px;">
 <ul>
   <li>🎓 Computer Science student at <a href="https://www.magistricumacini.edu.it">I.T.I.S. Magistri Cumacini</a></li>
   <li>🐍 Advanced Python knowledge (Data Science & ML oriented)</li>
@@ -20,7 +21,8 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 </ul>
   </div>
 
-  <div style="flex: 1;">
+  <!-- Colonna Immagine -->
+  <div style="flex: 0 0 45%; max-width: 45%;">
     <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/3-stats.svg" style="width:100%; border:none;" />
   </div>
 
