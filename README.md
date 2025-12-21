@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Markuzxx
+<h1>👋 Hi there, I'm Markuzxx</h1>
 
 I'm a computer science student with a strong focus on **software engineering**, **Python**, and **machine learning**.  
 I like building things that *actually work*: clean abstractions, solid logic, no wasted complexity.  
@@ -10,7 +10,7 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
   width="40%"
 />
 
-## 🧠 Profile Overview
+<h2>🧠 Profile Overview</h2>
 
 <ul>
   <li>🎓 Computer Science student at <a href="https://www.magistricumacini.edu.it">I.T.I.S. "Magistri Cumacini" (CO)</a></li>
@@ -22,12 +22,12 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 
 <br clear="right"/>
 
-## 🧬 Current Focus: Thorvex Programming Language
+<h2>🧬 Current Focus: Thorvex Programming Language</h2>
 
 I am currently developing my own programming language, **Thorvex**, designed as a learning-heavy but forward-looking project.
 🔗 Project repository: https://github.com/Markuzxx/thorvex
 
-### Language Goals
+<h3>Language Goals</h3>
 
 - 🧠 **Simple and explicit syntax**, inspired by modern languages
 - ⚡ **High performance**, designed with speed and efficiency as first-class goals
@@ -36,7 +36,7 @@ I am currently developing my own programming language, **Thorvex**, designed as 
 
 This project is not just about "making a language", but about **understanding how programming languages actually work under the hood**.
 
-## 💻 Programming Languages
+<h2>💻 Programming Languages</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -46,19 +46,19 @@ This project is not just about "making a language", but about **understanding ho
   <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
 </p>
 
-## 🛠 Tools & Technologies
+<h2>🛠 Tools & Technologies</h2>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🧰 IDEs & Editors
+<h2>🧰 IDEs & Editors</h2>
 
 - Visual Studio Code
 - PyCharm
 - RustRover
 
-## 📊 Other GitHub Stats
+<h2>📊 Other GitHub Stats</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
