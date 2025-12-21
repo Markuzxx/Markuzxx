@@ -33,7 +33,7 @@ I am currently developing my own programming language, **Thorvex**, designed as 
 - 🛡 **Robust and predictable behavior**, prioritizing correctness and safety
 - ⚙️ **Strong focus on logic clarity**, avoiding unnecessary syntactic sugar
 
-This project is not just about "making a language", but about **understanding how programming languages actually work under the hood**.
+This project is not just about "making a language", but about **understanding how programming languages actually work**.
 
 ## 💻 Programming Languages
 
