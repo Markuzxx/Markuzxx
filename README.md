@@ -1,38 +1,74 @@
-# Hey there, I'm Markuzxx 👋
+# 👋 Hi there, I'm Markuzxx
 
-Welcome to my GitHub profile!  
-I'm a computer science student passionate about programming, machine learning, and game development.
-
----
-
-## 🚀 About Me
-- Advanced Python programmer 🐍  
-- Learning Rust for game and systems development ⚡  
-- Exploring AI, ML, and data science 📊  
-- Interested in armored vehicles, simulations, and strategy games 🎮
+I'm a computer science student with a strong focus on **software engineering**, **Python**, and **machine learning**.  
+I like building things that *actually work*: clean abstractions, solid logic, no wasted complexity.  
+Currently exploring **Rust** and low-level concepts for performance-oriented systems and simulations.
 
 ---
 
-## 🛠 Tech & Tools
+## 🧠 Profile Overview
+- 🎓 Computer Science student at ![I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it/)
+- 🐍 Advanced Python knowledge (Data Science & ML oriented)
+- 🦀 Rust learner for systems and game development
+- 🧪 Interested in simulations, strategy games, and complex systems
+- 🚀 Long-term goal: real-world engineering, not toy software
+
+---
+
+## 🧬 Current Focus: Thorvex Programming Language
+
+I am currently developing my own programming language, **Thorvex**, designed as a learning-heavy but forward-looking project.
+🔗 Project repository: https://github.com/Markuzxx/thorvex
+
+### Language Goals
+- 🧠 **Simple and explicit syntax**, inspired by modern languages
+- ⚡ **High performance**, designed with speed and efficiency as first-class goals
+- 🛡 **Robust and predictable behavior**, prioritizing correctness and safety
+- ⚙️ **Strong focus on logic clarity**, avoiding unnecessary syntactic sugar
+
+This project is not just about "making a language", but about **understanding how programming languages actually work under the hood**.
+
+---
+
+## 💻 Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+## 🛠 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🌐 Projects
-- [Personal Website](https://github.com/Markuzxx/website) – My portfolio & CV online  
-- [Strategic Game](https://github.com/Markuzxx/strategy-game) – Simulation game in Rust  
-- [Python ML Experiments](https://github.com/Markuzxx/ml-experiments) – Machine learning projects and experiments  
+## 🧰 IDEs & Editors
+
+- Visual Studio Code
+- PyCharm
+- RustRover
 
 ---
 
-## 📫 Contact Me
-- Twitter / X: [@Markuzxx](https://twitter.com/Markuzxx)  
-- LinkedIn: [Markuzxx](https://www.linkedin.com/in/markuzxx/)  
-- Email: markuzxx@example.com  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markuzxx&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-Thanks for visiting! Feel free to explore my projects and connect. 🙂
+## 🔥 Activity & Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Markuzxx&theme=dark&hide_border=true)
+
+---
+
+## 🧮 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markuzxx&layout=compact&theme=dark&hide_border=true)
+
+---
+
+> *Understand the system. Build the system. Improve the system.*
