@@ -15,8 +15,6 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 <ul>
   <li>🎓 Computer Science student at <a href="https://www.magistricumacini.edu.it">I.T.I.S. "Magistri Cumacini" (CO)</a></li>
   <li>🐍 Advanced Python knowledge (Data Science, ML pipelines, algorithmic thinking)</li>
-  <li>🦀 Rust learner focused on performance, memory safety, and low-level control</li>
-  <li>🧠 Strong interest in language design, compilers, and runtime systems</li>
   <li>🧪 Passionate about simulations, strategy games, and complex emergent systems</li>
   <li>⚙️ Enjoys building systems from scratch: engines, tools, and abstractions</li>
   <li>📈 Engineering mindset: correctness first, optimization second, aesthetics last</li>
