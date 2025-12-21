@@ -7,11 +7,21 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 ---
 
 ## 🧠 Profile Overview
-- 🎓 Computer Science student at ![I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it/)
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+- 🎓 Computer Science student at [I.T.I.S. Magistri Cumacini](https://www.magistricumacini.edu.it)
 - 🐍 Advanced Python knowledge (Data Science & ML oriented)
 - 🦀 Rust learner for systems and game development
 - 🧪 Interested in simulations, strategy games, and complex systems
 - 🚀 Long-term goal: real-world engineering, not toy software
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/3-stats.svg" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -21,6 +31,7 @@ I am currently developing my own programming language, **Thorvex**, designed as 
 🔗 Project repository: https://github.com/Markuzxx/thorvex
 
 ### Language Goals
+
 - 🧠 **Simple and explicit syntax**, inspired by modern languages
 - ⚡ **High performance**, designed with speed and efficiency as first-class goals
 - 🛡 **Robust and predictable behavior**, prioritizing correctness and safety
@@ -34,6 +45,11 @@ This project is not just about "making a language", but about **understanding ho
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/1-repos-per-language.svg" width="45%" style="margin-right: 5%" />
+  <img src="https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/2-most-commit-language.svg" width="45%" />
+</p>
 
 ---
 
@@ -55,19 +71,13 @@ This project is not just about "making a language", but about **understanding ho
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markuzxx&show_icons=true&theme=dark&hide_border=true)
+![](https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/0-profile-details.svg)
 
 ---
 
 ## 🔥 Activity & Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Markuzxx&theme=dark&hide_border=true)
-
----
-
-## 🧮 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Markuzxx&layout=compact&theme=dark&hide_border=true)
+![](https://raw.githubusercontent.com/Markuzxx/Markuzxx/main/profile-summary-card-output/dark/4-productive-time.svg)
 
 ---
 
