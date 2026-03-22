@@ -24,7 +24,7 @@ Currently exploring **Rust** and low-level concepts for performance-oriented sys
 ## 🧬 Current Focus: Thorvex Programming Language
 
 I am currently developing my own programming language, **Thorvex**, designed as a learning-heavy but forward-looking project.
-🔗 Project repository: [https://github.com/Markuzxx/thorvex](https://github.com/thorvex-lang/thorvex)
+🔗 Project repository: https://github.com/thorvex-lang/thorvex
 
 ### Language Goals
 
